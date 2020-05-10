@@ -1,26 +1,27 @@
 # Important Information. Read this first!
 
-We are the **Hack Youre future Next Generation**
+We are the **Hack Youre Future DREAM TEAM**
 
-_Our mission is to creat the future of tomorow._
+_Our mission is to creat the future of tomorrow._
 
 
 
 ## Coaches
--[Tiago](tiago.md)
+- [Tiago](tiago.md)
 
 ### Our studens 
 
 - [Razvan](razvan.md)
 - [Ismail](ismail.md)
-- [Olga] (olga.md) 
-- [Kateryna] (kateryna.md)
-- [ShaRaf] (sharaf.md)
+- [Olga](olga.md) 
+- [Kateryna](kateryna.md)
+- [ShaRaf](sharaf.md)
+- [Hazem](hazem.md)
 
 
 
-First column | Second column 
+Student name| Email
 -------------|--------------
-content 1    |   content 2
+Razvan   |  example@yahoo.com
 
 
